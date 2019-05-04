@@ -1,6 +1,6 @@
 package com.wordpress.krogercode.entity;
 
-import interfaces.Transportation;
+import com.wordpress.krogercode.interfaces.Transportation;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

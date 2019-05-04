@@ -1,6 +1,6 @@
 package com.wordpress.krogercode.entity;
 
-import interfaces.Transportation;
+import com.wordpress.krogercode.interfaces.Transportation;
 import org.hibernate.annotations.AnyMetaDef;
 import org.hibernate.annotations.ManyToAny;
 import org.hibernate.annotations.MetaValue;

@@ -1,4 +1,4 @@
-package interfaces;
+package com.wordpress.krogercode.interfaces;
 
 public interface Transportation {
 
